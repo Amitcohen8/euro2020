@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be5bc2444321831653caeddf41b9d898",
+    "revision": "e929c5602aed585df5fc13aa0483b8d0",
     "url": "/euro2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/euro2020/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "8441f9e5097221dd3d23",
+    "revision": "7bfbaeef351a661d30c0",
     "url": "/euro2020/static/css/main.fef6cb8e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/euro2020/static/js/2.dfc8d92e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8441f9e5097221dd3d23",
-    "url": "/euro2020/static/js/main.e1168ef7.chunk.js"
+    "revision": "7bfbaeef351a661d30c0",
+    "url": "/euro2020/static/js/main.ff84fa2e.chunk.js"
   },
   {
     "revision": "354eeeb9d96140294f41",

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e929c5602aed585df5fc13aa0483b8d0",
+    "revision": "519dfdb3180f46da82d789e44832d718",
     "url": "/euro2020/index.html"
   },
   {
-    "revision": "fb0c9700969afc08d224",
+    "revision": "c78761fdb42f1ef4f8fd",
     "url": "/euro2020/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "7bfbaeef351a661d30c0",
-    "url": "/euro2020/static/css/main.fef6cb8e.chunk.css"
+    "revision": "67b0beb5a61c4d0bcd19",
+    "url": "/euro2020/static/css/main.ed995099.chunk.css"
   },
   {
-    "revision": "fb0c9700969afc08d224",
-    "url": "/euro2020/static/js/2.dfc8d92e.chunk.js"
+    "revision": "c78761fdb42f1ef4f8fd",
+    "url": "/euro2020/static/js/2.45da7e4f.chunk.js"
   },
   {
     "revision": "46f63f8626516ab37e48a023f0c6fcd4",
-    "url": "/euro2020/static/js/2.dfc8d92e.chunk.js.LICENSE.txt"
+    "url": "/euro2020/static/js/2.45da7e4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bfbaeef351a661d30c0",
-    "url": "/euro2020/static/js/main.ff84fa2e.chunk.js"
+    "revision": "67b0beb5a61c4d0bcd19",
+    "url": "/euro2020/static/js/main.848e5681.chunk.js"
   },
   {
     "revision": "354eeeb9d96140294f41",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/euro2020/static/css/main.6000f3b3.chunk.css",
-    "main.js": "/euro2020/static/js/main.3a123cbd.chunk.js",
-    "main.js.map": "/euro2020/static/js/main.3a123cbd.chunk.js.map",
+    "main.css": "/euro2020/static/css/main.fd5a32b0.chunk.css",
+    "main.js": "/euro2020/static/js/main.fe9e1bdb.chunk.js",
+    "main.js.map": "/euro2020/static/js/main.fe9e1bdb.chunk.js.map",
     "runtime-main.js": "/euro2020/static/js/runtime-main.04c2d563.js",
     "runtime-main.js.map": "/euro2020/static/js/runtime-main.04c2d563.js.map",
     "static/css/2.47e06e2e.chunk.css": "/euro2020/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f07075cd.chunk.js": "/euro2020/static/js/2.f07075cd.chunk.js",
-    "static/js/2.f07075cd.chunk.js.map": "/euro2020/static/js/2.f07075cd.chunk.js.map",
+    "static/js/2.01d71afc.chunk.js": "/euro2020/static/js/2.01d71afc.chunk.js",
+    "static/js/2.01d71afc.chunk.js.map": "/euro2020/static/js/2.01d71afc.chunk.js.map",
     "index.html": "/euro2020/index.html",
-    "precache-manifest.bc91c0d574e4863b6d6ddcab94f00bb8.js": "/euro2020/precache-manifest.bc91c0d574e4863b6d6ddcab94f00bb8.js",
+    "precache-manifest.d27d1170c9a2a6b866adc0e39d8b8503.js": "/euro2020/precache-manifest.d27d1170c9a2a6b866adc0e39d8b8503.js",
     "service-worker.js": "/euro2020/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/euro2020/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.6000f3b3.chunk.css.map": "/euro2020/static/css/main.6000f3b3.chunk.css.map",
-    "static/js/2.f07075cd.chunk.js.LICENSE.txt": "/euro2020/static/js/2.f07075cd.chunk.js.LICENSE.txt",
+    "static/css/main.fd5a32b0.chunk.css.map": "/euro2020/static/css/main.fd5a32b0.chunk.css.map",
+    "static/js/2.01d71afc.chunk.js.LICENSE.txt": "/euro2020/static/js/2.01d71afc.chunk.js.LICENSE.txt",
     "static/media/PlayerResults.scss": "/euro2020/static/media/euro2020_1.74450a3d.jpg",
     "static/media/logo.png": "/euro2020/static/media/logo.39606914.png",
     "static/media/App.scss": "/euro2020/static/media/ronaldo1.b247017f.jpg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.04c2d563.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f07075cd.chunk.js",
-    "static/css/main.6000f3b3.chunk.css",
-    "static/js/main.3a123cbd.chunk.js"
+    "static/js/2.01d71afc.chunk.js",
+    "static/css/main.fd5a32b0.chunk.css",
+    "static/js/main.fe9e1bdb.chunk.js"
   ]
 }
